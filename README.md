@@ -1,2 +1,4 @@
 # Network
-For network projects
+### For network projects
+- Labs
+- Projects
